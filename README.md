@@ -8,6 +8,3 @@ Database: SQLite
 
 Course: CSIT555 Database Systems
 
-Team: Rolex
-
-Team Members: Shibbir Ahmed Arif, Shivaprasad Dubyala, Udayteja Reddy Pingili and Achyuth Rapolu
